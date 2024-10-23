@@ -1,0 +1,5 @@
+model/framework/fit/
+.github
+.git
+.gitignore
+mock.txt
